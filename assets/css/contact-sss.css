@@ -1,0 +1,16 @@
+.contact {
+  background-image:url(../../assets/img//header_contact.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:right;
+  background-attachment:fixed;
+}
+
+.contact-content {
+  margin:30px;
+}
+
+.contact-content p, h3 {
+  color:#fff;
+}
+
